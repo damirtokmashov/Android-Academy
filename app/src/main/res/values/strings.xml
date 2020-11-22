@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Academy</string>
+    <string name="activity_main_text_name">Avengers: \n End Game</string>
+    <string name="activity_main_description_film">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
 </resources>
