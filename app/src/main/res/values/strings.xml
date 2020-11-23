@@ -2,4 +2,14 @@
     <string name="app_name">Android Academy</string>
     <string name="activity_main_text_name">Avengers: \nEnd Game</string>
     <string name="activity_main_description_film">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="activity_main_count_reviews">125 REVIEWS</string>
+    <string name="activity_main_storyline">Storyline</string>
+    <string name="activity_main_cast">Cast</string>
+    <string name="activity_main_actor_one">Robert Downey Jr.</string>
+    <string name="activity_main_actor_two">Chris\nEvans</string>
+    <string name="activity_main_back_pressed">Back</string>
+    <string name="activity_main_actor_three">Mark\nRufallo</string>
+    <string name="activity_main_actor_four">Chris Hemsworth</string>
+    <string name="activity_main_genre_film">Action, Adventure, Fantasy</string>
+    <string name="activity_main_age_limited">13+</string>
 </resources>
