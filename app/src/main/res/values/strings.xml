@@ -12,4 +12,6 @@
     <string name="activity_main_actor_four">Chris Hemsworth</string>
     <string name="activity_main_genre_film">Action, Adventure, Fantasy</string>
     <string name="activity_main_age_limited">13+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
